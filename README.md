@@ -17,7 +17,7 @@ The framework is designed to be scalable and independent of any specific LLM, ma
 
 For a visual overview of the project, including our approach, architecture, and results, you can view the final presentation slides.
 
-➡️ **[View the Project Presentation Slides](./presentation/safe-prompt.pdf)**
+➡️ **[View the Project Presentation Slides](./safe-prompt.pdf)**
 
 ## ✨ Key Features
 
